@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saopaolo, a jack of many digital trades, master of none.  Nowadays selling myself as a T shaped technical project director.
+- 👋 Hi, I’m @saopaolo, a jack of many digital trades, master of none.  Nowadays known as a T shaped technical project director.
 - 👀 I started my career as a software developer.  I intend to always be a student of software, hence I'm constantly coding.
 - 🌱 I’m currently learning how ReactJS can blend with IOT specifically with old school CMS (WordPress) and new technologies (blockchain)
 - 💞️ I’m looking to collaborate on startups that may improve the way we live. 
