@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saopaolo, a jack of many digital trades, master of none.  Nowadays known as a T shaped technical project director.
-- 👀 I started my career as a software developer.  I intend to always be a student of software, hence I'm constantly coding.
-- 🌱 I’m currently learning how ReactJS can blend with IOT specifically with old school CMS (WordPress) and new technologies (blockchain)
-- 💞️ I’m looking to collaborate on startups that may improve the way we live. 
-- 📫 Get in touch with me at https://www.linkedin.com/in/vittorio-aquino
+- 👋 Hi, I’m @saopaolo, a jack of many technical trades, master of none.  Nowadays mostly known as a T shaped technical project director.
+- 👀 I started my career as a software developer and then moved on to search, digital marketing, web analytics, data science, etc.  I intend to always be a student of technology and software development, hence I'm constantly trying to break things and make them better.
+- 🌱 I’m currently learning how ReactJS can blend with IOT specifically with old school CMS (WordPress) and new technologies (APIs of all shapes and sizes, web 3.0 and decentralisation)
+- 💞️ I’m looking to collaborate with like minds and startups that potentially improve the way we live. 
+- 📫 Get in touch with me via https://www.linkedin.com/in/vittorio-aquino
 
 <!---
 saopaolo/saopaolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
