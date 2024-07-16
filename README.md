@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saopaolo, a jack of many technical trades, master of none.  Nowadays mostly known as a T shaped technical project director.
-- 👀 I started my career as a software developer and then moved on to search, digital marketing, web analytics, data science, etc.  I intend to always be a student of technology and software development, hence I'm constantly trying to break things and make them better.
-- 🌱 I’m currently working on how ReactJS can be stretched to improved the IOT experience, specifically blending with old school ecommerce and CMS (WordPress) and new technologies (APIs of all shapes and sizes, web 3.0, decentralisation, etc.)
-- 💞️ I’m looking to collaborate with like minds and startups that potentially improve the way we live. 
-- 📫 Get in touch with me via https://www.linkedin.com/in/vittorio-aquino
+- 👋 Hi, I’m @saopaolo, a former software tech lead turned cloud security engineer. While I’ve dabbled in many technical areas, I now focus on ensuring robust security in cloud environments.
+    👀 I began my career as a software developer and explored fields like search, digital marketing, web analytics, and data science. I’m committed to continuous learning in technology and software development, always seeking ways to innovate and enhance systems.
+    🌱 Currently, I’m focused on leveraging machine learning to help secure web applications.
+    💞️ I’m eager to collaborate with like-minded individuals and startups that aim to positively impact our lives.
+    📫 contact me at vitt [dot] aquino [at] gmail.
 
 <!---
 saopaolo/saopaolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
