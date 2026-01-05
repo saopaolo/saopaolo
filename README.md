@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @saopaolo, Ad Tech salaryman by day, Cloud data security hobbyist by night.
-- 👀 I began my career as a web applications software developer and explored fields like search, digital marketing, web analytics, and data science. I’m committed to continuous learning in technology and software development, always seeking ways to innovate and enhance systems.
-- 🌱 Currently, I’m focused on leveraging machine learning to help secure web applications, or provide useful data (like predicting stock movements)
-- 💞️ I’m eager to collaborate with like-minded individuals and startups that aim to positively impact our lives.
-- 📫 contact me at paolo [dot] aquino [at] gmail.
+Ad Tech Ops | Web & Software Dev | AI Integrations | Cloud Security
+I bridge the gap between complex advertising ecosystems and scalable website and software engineering. My focus is on building secure, AI-driven applications that optimise performance and protect data integrity.
+
+🚀 What I'm Working On
+Smart Ad-Yield Engines: Building ML models to predict floor prices and optimize revenue in real-time.
+Secure AI Wrappers: Developing private, enterprise-grade AI interfaces with a focus on data sanitization.
+Infrastructure as Code (IaC): Securing cloud deployments using Terraform and automated security scanning.
 
 <!---
 saopaolo/saopaolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
