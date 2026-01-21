@@ -1,4 +1,4 @@
-Data and Rev Ops | AI Integrations | Cloud Security
+Data and Rev Ops | AI Integrations | GRC and Cyber Security
 
 🚀 What I'm Working On
 Smart Ad-Yield Engines: Building ML models to predict floor prices and optimise revenue in real-time.
